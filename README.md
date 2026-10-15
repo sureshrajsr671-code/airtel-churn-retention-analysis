@@ -1,12 +1,9 @@
-
----
-
 ### Project 2: Airtel Customer Churn Analytics
 
-* **Repository Name:** `airtel-customer-churn-analytics`
-* **Description:** Telecom churn diagnostics and revenue defense framework across 7,043 subscriber accounts to analyze contract friction, payment methods, and fiber optic attrition.
-* **Updated Clean Dashboard:**
-  `airtel_churn_dashboard_v2.png`
+* **Repository Name:**  
+  `airtel-customer-churn-analytics`
+* **GitHub Description:**  
+  `Telecom churn diagnostics and revenue defense framework across 7,043 subscriber accounts analyzing contract friction, payment methods, and fiber optic attrition.`[cite: 8]
 
 ```markdown
 # Airtel Customer Churn Diagnostics and Retention Strategy
@@ -78,7 +75,7 @@ An empirical investigation across 7,043 active subscriber accounts to diagnose t
 ├── working_files/
 │   └── Airtel_Customer_Churn_Working_File.xlsx
 ├── screenshots/
-│   └── airtel_churn_dashboard_v2.png
+│   └── airtel_churn_dashboard_clean.png
 ├── presentation/
 │   └── Airtel Customer Churn Analytics.pptx
 └── README.md
